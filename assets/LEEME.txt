@@ -1,0 +1,4 @@
+Coloca aquí tu video final con el nombre exacto:  trading-background.mp4
+Recomendado: H.264 (MP4), vertical 1080x1920 o 16:9 1920x1080, 8-15 s en bucle, sin audio,
+menos de 4 MB (comprime con HandBrake o: ffmpeg -i in.mp4 -an -vf scale=-2:1280 -crf 28 -movflags +faststart trading-background.mp4).
+Mientras no exista, se muestra poster.svg como fondo.
